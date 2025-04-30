@@ -1,4 +1,4 @@
-### ❤️ `Heart-Attack-Analysis-Prediction`
+###  `Heart-Attack-Analysis-Prediction`
 
 ```markdown
 # Heart Attack Risk Prediction
